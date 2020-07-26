@@ -3,34 +3,50 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 12  # Order that this section will appear.
 
-title = "Skills"
+title = ""
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
+  icon = "headphones-alt"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Editing"
+
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "sliders-h"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Mixing"
+
+
+#[[feature]]
+#  icon = ":headphones:"
+#  icon_pack = "emoji"
+#  name = "Editing"
+
+#[[feature]]
+##  icon = ":level_slider:"
+#  icon = ":control_knobs:"
+#  icon_pack = "emoji"
+#  name = "Mixing"
+
+#[[feature]]
+#  icon = ":cd:"
+#  icon_pack = "emoji"
+#  name = "Mastering"
+
+
+[[feature]]
+  icon = "compact-disc"
+  icon_pack = "fas"
+  name = "Mastering"
 
 # Uncomment to use emoji icons.
 # [[feature]]
