@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 interests:
 - Audio Editing
@@ -69,4 +69,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Dr. Rees is trained in classical piano and choral ensembles, and his technical expertise in wave physics and signal processing help guide his audio engineering. He performed with the [Northwest Boychoir](https://www.nwchoirs.org/northwest-boychoir) and [Vocalpoint! Seattle](https://www.nwchoirs.org/vocalpoint-seattle) while in secondary school, and studied music composition and theory while earning a B.A. in Chemistry at [Goucher College](https://www.goucher.edu). He also performed in, arranged for, and directed some of the college's student-run ensembles. Dr. Rees later performed with Seattle soul and R&B band [The Freams](https://www.facebook.com/freamsband/) while completing his Ph.D. in Chemistry at the [University of Washington](https://www.washington.edu). He currently plays keyboard and trumpet with blues/soul/rock group [Controlled Burn](https://www.facebook.com/ControlledBurnTheBand/) in the San Francisco Bay Area. 
+Dr. Rees is trained in classical piano and choral ensembles, and performed with the [Northwest Boychoir](https://www.nwchoirs.org/northwest-boychoir) and [Vocalpoint! Seattle](https://www.nwchoirs.org/vocalpoint-seattle) while in secondary school. He also studied music composition and theory while earning a B.A. in Chemistry at [Goucher College](https://www.goucher.edu), and performed in, arranged for, and directed multiple student-run ensembles. Dr. Rees later performed with Seattle soul and R&B group [The Freams](https://www.facebook.com/freamsband/), and currently plays keyboard and trumpet with blues/funk/rock group [Controlled Burn](https://www.facebook.com/ControlledBurnTheBand/) in the San Francisco Bay Area.
+
+Dr. Rees has M.S. and Ph.D. degrees in Chemistry from the [University of Washington](https://www.washington.edu), which included substantial technical training in wave physics and signal processing. His approach to sound engineering blends this scientific expertise with a disciplined ear and musicianship spanning an extensive range of genres.
