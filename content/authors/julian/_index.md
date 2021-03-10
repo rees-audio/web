@@ -21,9 +21,9 @@ organizations:
 bio:
 
 interests:
-- Audio Editing & Post-Production
-- Choral and Instrumental Mix Engineering
-- Audio Mastering
+- <a href="/services">Audio Editing & Post-Production</a>
+- <a href="/services">Choral and Instrumental Mix Engineering</a>
+- <a href="/services">Audio Mastering</a>
 
 education:
   courses:

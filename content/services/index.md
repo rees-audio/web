@@ -1,6 +1,6 @@
 +++
 title = "Summary of Services"
-subtitle = "Rees Audio Engineering"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -40,34 +40,38 @@ subtitle = "Rees Audio Engineering"
  # CSS class.
  css_class = ""
 +++
-Julian provides a full range of audio and sound engineering services for artists and institutions of all sorts, and will work with you through either the entire production and creation process, or just selected services. He also specializes in working with choirs and vocal-intensive ensembles, including virtual ensembles. Building on a decade of rigorous training in choral musicianship, Julian understands the nuance and precision expected from world-class choirs. This experience is brought to bear in his engineering work, resulting in a polished and professional sound you can be proud to share.
+Rees Audio Engineering provides a range of audio and sound design and engineering services for artists and ensembles of all sorts. We are happy to work with you through either the entire production and creation process, or just selected phases.
+
+<h3>Choirs and Vocal Ensembles</h3>
+
+Julian builds on a decade of rigorous training in choral musicianship, and understands the nuance and precision expected from world-class choirs. For multitracked recordings, his meticulous editing of pitch, transients, and formants results in a polished and professional choral sound, and he uses a variety of algorithmic and convolution reverb tools to place choirs into concert halls, cathedrals, and other performance spaces. Julian is also available for limited on-site recording projects, virtual consultation, and remote audio engineering.
+
+
+
+<h3>Solo Artists, Small Groups, and Bands</h3>
+
+Julian has been playing music and producing his own projects for years, and enjoys meeting and collaborating with new artists. An avid listener of genres including Motown and soul, funk, R&B, hip hop, classical, EDM, pop, and folk / country, he is happy to offer creative insight for new projects or to simply provide technical expertise and engineering for your vision.
+
+<br>
 
 [*Portfolio of Sample Work*](../#projects)
 
-<h3>Audio Editing & Post-Production</h3>
+<br>
 
-- Removing background noise/hums/clicks
-- Filtering, de-essing, and compressing tracks
-- Editing tempo, pitch, and formants for color and consistency
-- Other cleanup and optimization
+<h3><i class="fas fa-headphones-alt"></i>&nbsp;&nbsp;    Audio Editing & Post-Production</h3>
 
-<h3>Mix Engineering</h3>
+<h3> <i class="fas fa-microphone-alt"></i>&nbsp;&nbsp;&nbsp;    Limited On-Site Sound Engineering</h3>
 
-- Balancing the dynamic elements of your music
-- Creating a sense of space and depth for instruments and voices
-- Crafting a rich, full, genre-consistent sound
+<h3><i class="fas fa-sliders-h"></i>&nbsp;&nbsp;    Mixing</h3>
 
-<h3>Mastering</h3>
+<h3><i class="fas fa-compact-disc"></i>&nbsp;&nbsp;    Mastering</h3>
 
-- Tailoring the equalization and dynamic range of your mix
-- Optimizing loudness for streaming, digital, or other media
-
-<h3>Other Services</h3>
-Julian is also available for consulting work regarding audio engineering, including equipment suggestions, recording and streaming methodology, and other specialty advice.
 
 
 <br>
 
-<h2>Rates</h2>
+<h1>Rates</h1>
 
-Rees Audio Engineering offers competitive hourly rates and progressive pricing for all services. Please [get in touch](../#contact) if you would like to discuss a quote!
+Rees Audio Engineering offers competitive hourly rates and progressive pricing for most services, and is happy to discuss your project at no cost. Please [get in touch](../#contact) if you're interested in working with us!
+
+<br>

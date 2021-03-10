@@ -9,7 +9,7 @@ categories: []
 date: 2021-01-01T22:04:19-08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://youtu.be/_Ee9bSUle54?t=3052"
+external_link: "https://youtu.be/_Ee9bSUle54?t=3060"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -30,7 +30,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/_Ee9bSUle54?t=3052"
+url_video: "https://youtu.be/_Ee9bSUle54?t=3060"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
